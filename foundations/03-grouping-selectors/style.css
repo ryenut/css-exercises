@@ -6,3 +6,10 @@
 .do-not-click {
     background-color: #ffff00;
 }
+
+.click.black-bg,
+.do-not-click {
+
+    font-size: 28px;
+    font-family: Helvetica 'Times New Roman', Times, sans-serif;
+}
