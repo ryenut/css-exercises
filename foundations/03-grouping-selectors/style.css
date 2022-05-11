@@ -1,0 +1,8 @@
+.click.black-bg {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.do-not-click {
+    background-color: #ffff00;
+}
