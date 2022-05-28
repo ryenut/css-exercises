@@ -12,15 +12,16 @@ body {
 
 .title {
   background: #e3f4ff;
-  padding: 8px;
   margin-top: 1px;
+  margin-bottom: 8px;
   font-size: 16px;
+  padding: 8px;
 }
 
 .content {
   background: #e3f4ff;
   padding: 8px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .button-container {
@@ -32,7 +33,6 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  padding: 8px;
   display: block;
   margin-left: 125px;
   padding-left: 24px;
