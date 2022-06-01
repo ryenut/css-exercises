@@ -52,4 +52,5 @@ ul {
   margin: 8px;
   display: inline-flex;
   padding: 0px;
+  align-items: center;
 }
