@@ -35,4 +35,7 @@ img {
 
 .item {
   display: flex;
+  max-width: 200px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
