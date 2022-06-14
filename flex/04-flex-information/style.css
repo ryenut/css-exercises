@@ -33,7 +33,7 @@ img {
   justify-content: center;
 }
 
-.item {
+.items {
   display: flex;
   max-width: 200px;
   flex-wrap: wrap;
