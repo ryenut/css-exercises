@@ -25,3 +25,12 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.plants {
+  display: flex;
+
+}
+
+.item {
+  display: flex;
+}
