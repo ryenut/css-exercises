@@ -28,6 +28,8 @@ img {
 
 .plants {
   display: flex;
+  margin: 32px;
+  gap: 52px;
 
 }
 
