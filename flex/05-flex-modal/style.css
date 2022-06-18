@@ -74,5 +74,6 @@ button.cancel {
   justify-content: space-between;
   font-weight: bold;
   margin: 15px;
+  align-items: center;
 
 }
