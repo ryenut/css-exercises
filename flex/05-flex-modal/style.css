@@ -74,10 +74,11 @@ button.cancel {
   display:flex;
   justify-content: space-between;
   font-weight: bold;
-  margin: 15px;
+  margin: 10px;
+  margin-top: 5px;
   align-items: center;
 }
 
 .text {
-  margin-left: 14px;
+  margin-left: 10px;
 }
