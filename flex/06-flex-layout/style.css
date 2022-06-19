@@ -46,3 +46,7 @@ ul {
   display: flex;
   gap: 20px;
 }
+
+.right-links {
+  margin-left: auto;
+}
