@@ -28,10 +28,12 @@ input {
 
 .header {
   display: flex;
+  padding: 10px;
 }
 
 .footer {
   display: flex;
+  padding: 10px;
 }
 
 ul {
