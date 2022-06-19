@@ -29,3 +29,7 @@ input {
 .header {
   display: flex;
 }
+
+.footer {
+  display: flex;
+}
