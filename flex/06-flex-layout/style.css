@@ -50,3 +50,8 @@ ul {
 .right-links {
   margin-left: auto;
 }
+
+.content, .input, .buttons {
+  display: flex;
+  justify-content: center;
+}
