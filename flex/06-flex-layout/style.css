@@ -31,17 +31,21 @@ input {
   padding: 10px;
 }
 
-/* redo 
+
+.right-links, .left-links {
+  display: flex;
+  gap: 20px;
+}
+
+
 ul {
   list-style-type: none;
   padding: 0px;
   margin: 0px;
 }
 
-.right-links, .left-links {
-  display: flex;
-  gap: 20px;
-}
+/* redo 
+
 
 .right-links {
   margin-left: auto;
