@@ -25,17 +25,13 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+.header, .footer {
+  display: flex;
+  padding: 10px;
+}
+
 /* redo 
-.header {
-  display: flex;
-  padding: 10px;
-}
-
-.footer {
-  display: flex;
-  padding: 10px;
-}
-
 ul {
   list-style-type: none;
   padding: 0px;
