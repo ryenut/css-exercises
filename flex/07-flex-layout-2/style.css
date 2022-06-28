@@ -44,6 +44,12 @@ body {
 .content {
   display: flex;
 }
+
+a {
+  text-decoration: none;
+}
+
+
 /*
 
 .sidebar {
