@@ -39,6 +39,9 @@ body {
   justify-content: center;
 }
 
+.content {
+  display: flex;
+}
 /*
 
 .sidebar {
