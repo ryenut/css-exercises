@@ -19,6 +19,7 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  align-items: center;
 }
 
 .sidebar {
@@ -39,19 +40,6 @@ body {
 }
 
 /*
-
-.header {
-  font-size: 32px;
-  font-weight: 900;
-  margin-top: 16px;
-  display: flex;
-}
-
-.footer {
-  align-items: center;
-}
-
-
 
 .sidebar {
    display: flex;
