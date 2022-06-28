@@ -63,6 +63,12 @@ ul {
   display: flex;
   gap: 20px;
 }
+
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+}
 /*
 
 .sidebar {
