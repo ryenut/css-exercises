@@ -27,6 +27,7 @@ body {
   background: royalblue;
   display: flex;
   flex-shrink: 0;
+  font-size: 24px;
 }
 
 .card {
