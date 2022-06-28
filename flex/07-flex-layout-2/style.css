@@ -60,6 +60,8 @@ ul {
 
 .cards {
   padding: 32px;
+  display: flex;
+  gap: 20px;
 }
 /*
 
